@@ -17,7 +17,7 @@ const manifest = (config?: Config, configPresent?: boolean) => {
     resources: ['stream'],
     background:
       'https://raw.githubusercontent.com/Viren070/AIOStreams/refs/heads/main/packages/frontend/public/assets/background.png',
-    logo: 'https://raw.githubusercontent.com/Viren070/AIOStreams/refs/heads/main/packages/frontend/public/assets/logo.png',
+    logo: 'https://raw.githubusercontent.com/portobello-webmaster/stremio/refs/heads/main/packages/frontend/public/assets/logo.png',
     types: ['movie', 'series'],
     behaviorHints: {
       configurable: true,
